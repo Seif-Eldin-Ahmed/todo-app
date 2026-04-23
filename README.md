@@ -15,6 +15,11 @@ This project helps users manage their daily tasks efficiently with a clean and i
 
 ---
 
+## 📸 Preview
+<img width="1919" height="935" alt="Main" src="https://github.com/user-attachments/assets/439d46b5-796a-4153-a33d-b5628fdbe83a" />
+
+---
+
 ## 🛠️ Built With
 - HTML5  
 - CSS3 (Flexbox / Grid / Responsive Design)  
